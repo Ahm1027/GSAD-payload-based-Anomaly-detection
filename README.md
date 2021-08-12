@@ -1,6 +1,7 @@
 # GSAD-payload-based-Anomaly-detection
 
-Implementation for payload based Anamoly detection model given by Aruna Jamdagni
+GSAD stands for Geometrical structure anomaly detection
+This will be an implementation for payload based Anamoly detection model given by Aruna Jamdagni
 It will be implemented for Http traffic on a localhost
 
 # Description
