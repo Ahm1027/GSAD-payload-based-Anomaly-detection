@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 External*Libraries/
 .idea/
+http_requests.csv
 
 # C extensions
 *.so
