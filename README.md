@@ -1,6 +1,6 @@
-# GSAD-payload-based-Anomaly-detection
+# Mahalanobis-Distance-Map-for-Network-Traffic
 
-GSAD stands for Geometrical structure anomaly detection
+MDM helps in standardization and detecting of correlations between features
 This will be an implementation for payload based Anamoly detection model given by Aruna Jamdagni
 It will be implemented for Http traffic on a localhost
 
